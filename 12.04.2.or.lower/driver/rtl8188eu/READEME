@@ -1,0 +1,6 @@
+1. Makefile: i386 = y
+2. make 
+3. sudo make install
+4. lsmod
+5. insmod 8188eu.ko
+5. ifconfig wlan0
